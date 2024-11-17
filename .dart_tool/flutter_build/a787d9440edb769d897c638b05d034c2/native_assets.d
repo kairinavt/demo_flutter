@@ -1,0 +1,1 @@
+ D:\\Workspace\\School\\HUYNH\\demo\\money-management-app\\.dart_tool\\flutter_build\\a787d9440edb769d897c638b05d034c2\\native_assets.yaml: 
